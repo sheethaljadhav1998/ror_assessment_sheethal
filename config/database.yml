@@ -1,0 +1,11 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  reconnect: false
+  database: assessment_db
+  pool: 5
+  username: root
+  password: password
+  host: localhost
+  port: 5432
+  template: template0
